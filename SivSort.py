@@ -5,11 +5,11 @@ import pathlib
 from pathlib import Path
 import shutil
 
-print("By Woj, 03.10.2022, program version 1.0")
-print("This program is a gift for Siv. It sorts jpg, png, mp4 and zip files to folders depending on first word of filename. The separator is '-'.")
+print("By Wojtekb30, 03.10.2022, program version 1.0")
+print("This program was created as a gift for Siv. It sorts jpg, png, mp4 and zip files to folders depending on first word of filename. The separator is '-'.")
 input("First let's choose the folder files to sort are in. \nPress ENTER/RETURN to continue. ")
-root = Tk() # pointing root to Tk() to use it as Tk() in program.
-root.withdraw() # Hides small tkinter window.
+root = Tk() 
+root.withdraw() 
 
 root.attributes('-topmost', True)
 # folder path
