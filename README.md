@@ -1,7 +1,7 @@
 # Twitter-Media-Downloader-downloads-sorter (SivSort)
 Program for sorting files downloaded with Twitter Media Downloader (memo.furyutei.work) into individual folders.
 
-Created as commission for Siv. They chose the program's name (SivSort) and icon (which is Minecraft Hopper).
+I created it as commission for Siv. They chose the program's name (SivSort) and icon (which is Minecraft Hopper). They also allowed me to publish it and its source code under the license I chosen for it.
 
 ----------------------------------------------------------------------------
 
